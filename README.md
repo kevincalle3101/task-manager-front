@@ -1,20 +1,23 @@
 ﻿<a name="readme-top"></a>
 
-# Task-Manager-Back
+# Task-Manager-Front
 
-> API REST para manejar tareas.
+> App para manejar tareas.
 
 ## Hecho con:
 - Typescript
-- Express
-- Mongoose
-- Deocumentación con Swagger
+- React
+- TailwindCSS
+- Zustand
+- React-Hook-Form
+- Yup
+- Wouter
 
 ## Live Demo
 
-[BACKEND URL](https://task-manager-back-production-101.up.railway.app/api-docs/)
+[FRONTEND URL](https://task-manager-front-eigqeonfr-kevincalles-projects.vercel.app/)
 
-## Para comenzar
+## Para empezar
 
 Hacer una copia local y seguir las siguientes simples instrucciones.
 
@@ -28,7 +31,7 @@ Hacer una copia local y seguir las siguientes simples instrucciones.
 
 1. Clonar el repositorio
    ```sh
-   git clone https://github.com/kevincalle3101/task-manager-back.git
+   git clone https://github.com/kevincalle3101/task-manager-front
    ```
 2. Instalar NPM packages
    ```sh
@@ -44,9 +47,7 @@ Hacer una copia local y seguir las siguientes simples instrucciones.
 
 1.Crear un archivo ".env" y pegar las siguientes variables
 ```sh
- APP_PORT=3001
- MONGODB_USERNAME=kevincalle31
- MONGODB_PASSWORD=NLeoL0EydW8CH0O8
+ VITE_URL=https://task-manager-back-production-101.up.railway.app/task
 ```
 
 ### Uso
@@ -63,5 +64,4 @@ Hacer una copia local y seguir las siguientes simples instrucciones.
 
 - GitHub: [@kevincalle3101](https://github.com/kevincalle3101)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kevin-calle-mendoza-53935b273/)
-
 
