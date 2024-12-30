@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-[FRONTEND URL](https://task-manager-front-eigqeonfr-kevincalles-projects.vercel.app/)
+[FRONTEND URL](https://task-manager-front-pi.vercel.app/)
 
 ## Para empezar
 
