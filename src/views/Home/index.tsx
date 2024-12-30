@@ -1,5 +1,4 @@
 import { useLocation } from 'wouter';
-import { FaCheck } from "react-icons/fa";
 import { RxPlus } from "react-icons/rx";
 import { useEffect, useState } from "react";
 
